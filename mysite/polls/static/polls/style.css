@@ -1,0 +1,7 @@
+body {
+    background: rgb(244, 145, 145) url("images/background.gif") no-repeat;
+}
+
+li a {
+    color: green;
+}
